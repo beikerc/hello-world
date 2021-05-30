@@ -1,2 +1,5 @@
 # hello-world
-hello world for the githbu guide
+hello world for the github guide
+Im just a learner.
+
+See you!
